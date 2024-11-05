@@ -19,7 +19,7 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 
 ### Selenoid – Docker Grid Running
 - Selenoid is a powerful tool for running Selenium tests in Docker containers.
-  - which can help you manage and scale your test automation infrastructure more efficiently.
+- which can help you manage and scale your test automation infrastructure more efficiently.
 
 
 
